@@ -10,3 +10,4 @@ class Pokemon
     @@all << self
   end
   
+end
